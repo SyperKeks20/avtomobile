@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+.V{
+    margin: 70px;
+    background-color:grey ;
+    color:gray;
+}
